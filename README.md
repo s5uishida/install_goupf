@@ -39,7 +39,7 @@ The specification of the VM that have been confirmed to work is as follows.
 
 ## Build 5G GTP-U kernel module (gtp5g) and install
 
-**Note. If you specify the version with the branch, don't forget to specify it with `-b` option of `git` command.**
+**Note. If you want to use the branch with the unique version, don't forget to specify it with `-b` option of `git` command.**
 ```
 # git clone https://github.com/free5gc/gtp5g.git
 # cd gtp5g
@@ -71,7 +71,8 @@ If you want to uninstall it, do the following:
 
 ## Clone go-upf and build
 
-Get go-upf and build it. **Note. If you specify the version with the branch, don't forget to specify it with `-b` option of `git` command.**
+Get go-upf and build it.
+**Note. If you want to use the branch with the unique version, don't forget to specify it with `-b` option of `git` command.**
 ```
 # git clone https://github.com/free5gc/go-upf.git
 # cd go-upf
