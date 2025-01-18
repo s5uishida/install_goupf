@@ -21,7 +21,7 @@ The specification of the VM that have been confirmed to work is as follows.
 - [Build 5G GTP-U kernel module (gtp5g) and install](#build_gtp5g)
 - [Install Golang and Setting](#install_golang)
 - [Clone go-upf and build](#build)
-- [Get configuration file of upf](#get_config)
+- [Get configuration file](#get_config)
 - [Run go-upf](#run)
 - [Changelog (summary)](#changelog)
 
@@ -86,7 +86,7 @@ upf
 
 <a id="get_config"></a>
 
-## Get configuration file of upf
+## Get configuration file
 
 ```
 # cd go-upf
