@@ -97,7 +97,7 @@ upf
 
 ## Run go-upf
 
-Edit `upfcfg.yaml` and run go-upf.
+Edit `upfcfg.yaml` and run go-upf. Don't forget to configure the network settings according to your environment.
 ```
 # cd go-upf
 # ./upf -c upfcfg.yaml
