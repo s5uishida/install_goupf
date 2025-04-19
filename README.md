@@ -57,8 +57,8 @@ If you want to uninstall it, do the following:
 ## Install Golang and Setting
 
 ```
-# wget https://go.dev/dl/go1.23.4.linux-amd64.tar.gz
-# tar -C /usr/local -zxvf go1.23.4.linux-amd64.tar.gz
+# wget https://go.dev/dl/go1.24.2.linux-amd64.tar.gz
+# tar -C /usr/local -zxvf go1.24.2.linux-amd64.tar.gz
 # mkdir -p ~/go/{bin,pkg,src}
 # echo 'export GOPATH=$HOME/go' >> ~/.bashrc
 # echo 'export GOROOT=/usr/local/go' >> ~/.bashrc
